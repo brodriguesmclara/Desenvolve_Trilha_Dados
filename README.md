@@ -35,9 +35,10 @@
 
 ## Para clonar este repositório em sua maquina, basta clicar no botão verde e copiar a URL como na imagem a seguir.
 
+
 ![Captura de Tela 2024-02-07 às 18 41 18](https://github.com/brodriguesmclara/Desenvolve_Trilha_Dados/assets/90051405/a3edac57-46fe-452f-9215-e7e5ec0ad3e2)
 
 
 
  
-![Captura de Tela 2024-02-07 às 18 41 18](https://github.com/brodriguesmclara/Desenvolve_Trilha_Dados/assets/90051405/e2cd9c86-c13a-4b1e-8f58-53cd5139e46c)
+
