@@ -6,17 +6,21 @@
 
 ## *** IMPORTANTE *** ##
 - Por questões de segurança, não fazer commtis com dados sensiveis, tais como:
-  - Nome e Sobrenome
+  - Numero de documento
+  - Enderecos
+  - Email
   - Login
   - Senhas
   - Chaves de acesso
   - Service Account
 
 ## Padrões e combinados
-- Commits apenas em suas respectivas pastas
+- Commits apenas nas pastas atribuidas ao seus nomes
 - Utilizar seu nome nas branchs
 - NÃO fazer commits na branch MAIN
-- Criar pastas individuais para cada linguagem de programação DENTRO DE SUAS PRÓPRIAS PASTAS.
+- Criar pastas distintas para cada linguagem de programação
+  -  Ex: Desenvolve_Trilhas_dados/ SEU_NOME / python /
+         Desenvolve_Trilhas_dados/ SEU_NOME / sql /       
 
   
 ## Lista de comandos uteis via GIT BASH:
