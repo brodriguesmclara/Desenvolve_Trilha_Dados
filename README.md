@@ -11,5 +11,14 @@
   - Senhas
   - Chaves de acesso
   - Service Account
-  
+
+## Lista de comandos uteis via GIT BASH:
+1. git clone <URL>
+2. git checkout main
+3. git pull
+4. git checkout -b <sua_branch>
+5. git status
+6. git add .
+7. git commit -m <resumo_das_alteracoes>
+8. git push origin <sua_branch> 
  
