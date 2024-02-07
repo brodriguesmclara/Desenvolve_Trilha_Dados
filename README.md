@@ -20,7 +20,8 @@
 - NÃO fazer commits na branch MAIN
 - Criar pastas distintas para cada linguagem de programação
   -  Ex: Desenvolve_Trilhas_dados/ SEU_NOME / python /
-         Desenvolve_Trilhas_dados/ SEU_NOME / sql /       
+  - Desenvolve_Trilhas_dados/ SEU_NOME / sql /
+               
 
   
 ## Lista de comandos uteis via GIT BASH:
