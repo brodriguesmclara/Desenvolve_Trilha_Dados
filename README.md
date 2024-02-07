@@ -4,7 +4,7 @@
 - Cada aluno possue sua pasta individual para que possa versionar seus códigos durante as trilhas de estudo
 - Ao final do Programa Desenvolve, todos alunos poderão clonar o repositório em suas respectivas pastas, possibilitando a criação de seus portifólios.
 
-## IMPORTANTE ##
+## || IMPORTANTE || ##
 - Por questões de segurança, não fazer commtis com dados sensiveis, tais como:
   - Nome e Sobrenome
   - Login
@@ -12,6 +12,13 @@
   - Chaves de acesso
   - Service Account
 
+## Padrões e combinados
+- Commits apenas em suas respectivas pastas
+- Utilizar seu nome nas branchs
+- NÃO fazer commits na branch MAIN
+- Criar pastas individuais para cada linguagem de programação DENTRO DE SUAS PRÓPRIAS PASTAS.
+
+  
 ## Lista de comandos uteis via GIT BASH:
 1. git clone <URL>
 2. git checkout main
